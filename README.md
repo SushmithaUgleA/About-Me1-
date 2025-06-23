@@ -1,23 +1,42 @@
 # About-Me1-
 
-👋Hi,I'm Sushmitha Ugle Ashok,a dedicated Analytics professional, I bring a strong background in statistical modeling, time series forecasting, text mining, and data analysis. My expertise in leveraging advanced data science techniques to drive business insights has been honed through hands-on experience in various industries.
+👋 About Me
+Hi, I’m Sushmitha Ugle Ashok — a passionate and results-driven Analytics professional with a strong foundation in statistical modeling, time series forecasting, text mining, and predictive analytics. I thrive on transforming raw data into meaningful insights that drive strategic decision-making and business growth.
 
-Currently pursuing a Master’s degree in Business Analytics at UTA, I specialize in transforming complex datasets into actionable strategies that enhance decision-making and business outcomes. My technical skills include proficiency in Python, SQL, R, Tableau, AWS, and advanced Excel, complemented by my ability to manage and optimize data pipelines, design workflows, and deliver impactful visualizations.
+🎓 I’m currently completing my Master’s in Business Analytics at the University of Texas at Arlington (UTA), where I specialize in converting complex datasets into actionable solutions using a blend of business acumen and cutting-edge data science techniques.
 
-I have consistently demonstrated the ability to lead and collaborate on data-driven projects throughout my career. At Honeywell International, I engineered a Tableau dashboard that contributed 34% revenue growth by analyzing Salesforce data and developing customer behavior models. During my tenure at DXC Technologies, I optimized SQL queries by 30% and spearheaded an outlier detection system that enhanced supply chain visibility.
+💼 Industry Experience
+In my professional journey across organizations like Honeywell International and DXC Technologies, I’ve had the opportunity to work on high-impact, data-driven projects:
 
-My academic projects further showcase my ability to apply machine learning and deep learning models to solve real-world problems. For instance, I led a project that developed a credit card churn prediction model, achieving a 20% reduction in churn rate through targeted interventions.In addition to my technical expertise, I have a strong foundation in project management, having successfully led teams, designed workflows, and managed risks to ensure the timely delivery of high-impact projects. My commitment to continuous learning and growth is reflected in my certifications from Coursera in Machine Learning and Data Analytics.
+At Honeywell, I developed a Tableau dashboard that contributed to 34% revenue growth by analyzing Salesforce data and uncovering customer behavior trends.
 
-I'm passionate about leveraging data to drive meaningful business outcomes and am always eager to connect with like-minded professionals. Feel free to reach out to discuss how we can collaborate on data-driven initiatives or explore new opportunities in the field.
+At DXC Technologies, I optimized SQL queries by 30% and implemented an outlier detection system that significantly improved supply chain visibility.
 
-Skills:
+💡 Academic & Project Highlights
+Built a credit card churn prediction model using machine learning that enabled a 20% churn reduction through targeted customer interventions.
 
-Languages - Python, SQL, Alteryx, Java, ABAP.
-Tools- Tableau Desktop, Tableau Public, R, Git, Spark.
-Cloud Services - Microsoft Azure Services - Azure Data Lake, Azure Databricks, Azure Data Factory, Azure, SQL, Google Cloud Services – Big Data,
-Compute, Storage & Databases.
-Machine Learning Algorithms - Linear Regression, Logistic Regression. SVM, K-Means, Random Forest, LSTM, CNN, RNN, Deep Neural Networks,
-Ensemble Learning, XG Boost.
+Developed and deployed time series forecasting models, classification models, and deep learning architectures (LSTM, CNN, RNN) to solve real-world business problems.
+
+Led cross-functional teams, designed workflows, and delivered projects on-time with measurable outcomes.
+
+🛠️ Technical Toolkit
+Languages & Tools: Python, SQL, R, Alteryx, Java, ABAP, Git
+
+Visualization: Tableau (Desktop/Public), Power BI, Visio, Zoho Analytics
+
+Cloud & Big Data: Azure (Data Lake, Databricks, ADF, SQL), Google Cloud (Big Data, Compute, Storage)
+
+ML/AI Models: Linear & Logistic Regression, Random Forest, XGBoost, SVM, K-Means, DNN, LSTM, CNN, Ensemble Models
+
+Other Skills: Data pipeline optimization, workflow design, data storytelling, and stakeholder communication
+
+Product Management: Product Lifecycle Management (PLM), Agile & Scrum, Jira, Product Roadmaps, A/B Testing, Organization Skills, Communication Skills, People Analytics
 
 
-📫 You can reach me by email at uglesushmitha@gmail.com or through my LinkedIn profile https://www.linkedin.com/in/sushmithaashokugle . I would be delighted to discuss how my skills and experiences align with your internship opportunity and how I can contribute to your company's remarkable work in data analysis and business intelligence.
+
+🌱 What Drives Me
+I’m deeply passionate about using data science and AI to uncover insights that inspire real-world impact. Whether it’s optimizing operations, improving customer retention, or enabling predictive capabilities—I believe that the right data, used well, can transform decisions.
+
+📫 Let’s Connect!
+If you’re working on something exciting in data, analytics, or AI—or have an opportunity to collaborate—I’d love to connect.
+Reach out to me at sushmithaashok@gmail.com or via LinkedIn.
