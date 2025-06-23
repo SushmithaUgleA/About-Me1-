@@ -1,4 +1,4 @@
-# About-Me1-
+# About Me
 
 👋 About Me
 Hi, I’m Sushmitha Ugle Ashok — a passionate and results-driven Analytics professional with a strong foundation in statistical modeling, time series forecasting, text mining, and predictive analytics. I thrive on transforming raw data into meaningful insights that drive strategic decision-making and business growth.
